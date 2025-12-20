@@ -1,0 +1,21 @@
+{
+  "name": "@cr-audioviz/asset-library",
+  "version": "1.0.0",
+  "description": "CR AudioViz AI - Unified Asset Library with 200+ free sources",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "author": "CR AudioViz AI, LLC",
+  "license": "PROPRIETARY",
+  "dependencies": {
+    "zustand": "^4.5.0"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0",
+    "lucide-react": ">=0.300.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CR-AudioViz-AI/cr-asset-library.git"
+  }
+}
